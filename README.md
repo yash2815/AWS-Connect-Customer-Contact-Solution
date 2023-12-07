@@ -13,7 +13,7 @@ This project showcases the development and implementation of an end-to-end custo
 ### Features Implemented
 
 - **Polly Text-to-Speech (TTS) with SSML:**
-  - Leveraged Polly's TTS service with SSML for personalized prompts with emphasis and prosody tags, enhancing customer interactions.
+  - Leveraged Polly's TTS service with SSML for personalized prompts with tags like emphasis and prosody, enhancing customer interactions.
 
 - **Customized Queues and Routing Profiles:**
   - Configured tailored queues and routing profiles to efficiently manage incoming customer contacts based on priorities and agent skills.
