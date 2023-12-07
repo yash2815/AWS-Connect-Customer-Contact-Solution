@@ -25,16 +25,16 @@ This project showcases the development and implementation of an end-to-end custo
 ## How to Use
 
 - **Setup Instructions:** 
- - Log in to your AWS Management Console and access AWS Connect.
- - Create and configure queues, routing profiles, and contact flows based on the provided configuration files.
- - Polly Integration: Integrate Polly's Text-to-Speech service into your AWS Connect instance to utilize personalized prompts with emphasis and prosody.
- - Testing and Validation: Test the contact solution by simulating incoming contacts and verifying the functionality of queues, routing, and contact flows.
+  - Log in to your AWS Management Console and access AWS Connect.
+  - Create and configure queues, routing profiles, and contact flows based on the provided configuration files.
+  - Polly Integration: Integrate Polly's Text-to-Speech service into your AWS Connect instance to utilize personalized prompts with emphasis and prosody.
+  - Testing and Validation: Test the contact solution by simulating incoming contacts and verifying the functionality of queues, routing, and contact flows.
   
 - **Prerequisites:**
- - AWS Account: Access to an AWS account with permissions to create and configure AWS Connect instances.
- - Access to AWS Services: Ensure access to AWS services such as Polly, IAM, and other necessary services used in this solution.
- - AWS Connect Instance: Create an AWS Connect instance to configure queues, routing profiles, and contact flows.
- - Polly Text-to-Speech Service: Enable access to the Polly Text-to-Speech service for personalized prompts.
+  - AWS Account: Access to an AWS account with permissions to create and configure AWS Connect instances.
+  - Access to AWS Services: Ensure access to AWS services such as Polly, IAM, and other necessary services used in this solution.
+  - AWS Connect Instance: Create an AWS Connect instance to configure queues, routing profiles, and contact flows.
+  - Polly Text-to-Speech Service: Enable access to the Polly Text-to-Speech service for personalized prompts.
 
 ## Screenshots
 
