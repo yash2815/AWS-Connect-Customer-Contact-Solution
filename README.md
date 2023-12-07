@@ -38,7 +38,7 @@ This project showcases the development and implementation of an end-to-end custo
 
 ## Screenshots
 
-Screenshots uploaded in the screenshots repository.
+Screenshots uploaded in the screenshots folder.
 
 ## Conclusion
 
