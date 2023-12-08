@@ -27,6 +27,13 @@ This project showcases the development and implementation of an end-to-end custo
 
 ## How to Use
 
+- **Prerequisites:**
+  - AWS Account: Access to an AWS account with permissions to create and configure AWS Connect instances.
+  - Access to AWS Services: Ensure access to AWS services such as Polly, IAM, and other necessary services used in this solution.
+  - AWS Connect Instance: Create an AWS Connect instance to configure queues, routing profiles, and contact flows.
+  - Polly Text-to-Speech Service: Enable access to the Polly Text-to-Speech service for personalized prompts.
+  - Amazon Lex Bot: Create an Amazon Lex bot with appropriate intents and slots tailored for customer interactions.
+
 - **Setup Instructions:** 
   - Log in to your AWS Management Console and access AWS Connect.
   - Create and configure queues, routing profiles, and contact flows based on the provided configuration files.
@@ -34,12 +41,6 @@ This project showcases the development and implementation of an end-to-end custo
   - Integrate the created Amazon Lex bot within the IVR flow in your AWS Connect instance.
   - Testing and Validation: Test the contact solution by simulating incoming contacts and verifying the functionality of queues, routing, and contact flows.
   
-- **Prerequisites:**
-  - AWS Account: Access to an AWS account with permissions to create and configure AWS Connect instances.
-  - Access to AWS Services: Ensure access to AWS services such as Polly, IAM, and other necessary services used in this solution.
-  - AWS Connect Instance: Create an AWS Connect instance to configure queues, routing profiles, and contact flows.
-  - Polly Text-to-Speech Service: Enable access to the Polly Text-to-Speech service for personalized prompts.
-  - Amazon Lex Bot: Create an Amazon Lex bot with appropriate intents and slots tailored for customer interactions.
 
 ## Screenshots
 
